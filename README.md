@@ -7,3 +7,4 @@ Code for [GitHub Actions: The Big Picture](https://app.pluralsight.com/library/c
 - GitHub hosted distributed runners are available. It's also possible to use self-hosted runners in own environment.
 - GitHub Workflows contain of Jobs, which by default run in parallel. Jobs contain of steps, individual actions which
 make up a job.
+- With `run` step it's possible to run command line command.
